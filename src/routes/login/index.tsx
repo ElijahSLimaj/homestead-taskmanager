@@ -12,7 +12,7 @@ export const LoginPage = () => {
             padding: 3,
           }}
         >
-          <Link to="/signup">Don't have an account? Register</Link>
+          <Link to="/signup">Don't have an account? Signup</Link>
         </div>
       }
       forgotPasswordLink={false}
